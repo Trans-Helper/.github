@@ -1,12 +1,34 @@
-## Hi there 👋
+# Trans-Helper
 
-<!--
+Trans-Helper 是一个以开源工程为核心的技术社区，专注构建面向跨性别群体的实用软件与基础设施。
 
-**Here are some ideas to get you started:**
+## 技术方向
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 面向真实需求的跨性别支持工具
+- 隐私优先的架构设计
+- 轻量、可维护的应用与服务
+- 模块化系统与可复用组件
+
+## 开发原则
+
+- 以真实使用场景为驱动，而非演示项目
+- 默认减少敏感数据收集与暴露
+- 系统设计保持可组合与可扩展
+- 优先简单可靠，而非复杂完备
+
+## 联系我们
+
+- https://discord.gg/DjjztJKFuw
+- 此条目仍待补充
+
+## 社区参与
+
+欢迎来自不同背景的贡献者加入：
+
+- 开发者（前端 / 后端 / 全栈）
+- 设计师
+- 相关资料贡献者
+- 跨性别者
+- 包括但不仅限于此……
+
+欢迎加入我们或通过 Issue / Pull Request / Discussions 参与共建。
